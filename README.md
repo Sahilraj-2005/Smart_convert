@@ -5,6 +5,14 @@
 - RFM Analysis: Conducted detailed RFM (Recency, Frequency, Monetary) analysis to classify users based on their purchasing behavior.
 - Purchase Propensity Model: Used a propensity model to forecast user behavior and identify individuals who need encouragement to make a purchase.
 
+### Tech Stacks
+**Backend:** Django, SQLite
+**Frontend:** HTML, CSS, JavaScript, Bootstrap
+**Data Analysis & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Visualization:** Chart.js, DataTables
+**Deployment:** Docker
+**Tools:** Git, Jupyter Notebook, Pickle
+
 ---
 
 ## Run Docker

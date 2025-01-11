@@ -1,17 +1,18 @@
-### Background
+# Smart Convert: AI Driven Behavioral Analytics Platform
+## Background
 - A newly established e-commerce company has high traffic but a low web-to-purchase conversion rate. Therefore, we predict the likelihood of each user making a purchase and implement targeted discount policies to encourage them to buy.
 
-### Achievements
+## Achievements
 - RFM Analysis: Conducted detailed RFM (Recency, Frequency, Monetary) analysis to classify users based on their purchasing behavior.
 - Purchase Propensity Model: Used a propensity model to forecast user behavior and identify individuals who need encouragement to make a purchase.
 
-### Tech Stacks
-**Backend:** Django, SQLite
-**Frontend:** HTML, CSS, JavaScript, Bootstrap
-**Data Analysis & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-**Visualization:** Chart.js, DataTables
-**Deployment:** Docker
-**Tools:** Git, Jupyter Notebook, Pickle
+## Tech Stacks
+- **Backend:** Django, SQLite
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Data Analysis & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Visualization:** Chart.js, DataTables
+- **Deployment:** Docker
+- **Tools:** Git, Jupyter Notebook, Pickle
 
 ---
 
@@ -81,3 +82,7 @@ docker run -it --name customer-propensity-to-purchase -p 8000:8000 diends/yourna
 ---
 
 Make sure to replace `diends` with your Docker Hub username and `yourname` with your application/yourname.
+
+
+## Feedback and Support:
+We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [snehasishhaldar415@gmail.com](mailto:snehasishhaldar415@gmail.com).

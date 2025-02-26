@@ -85,4 +85,4 @@ Make sure to replace `diends` with your Docker Hub username and `yourname` with 
 
 
 ## Feedback and Support:
-We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [snehasishhaldar415@gmail.com](mailto:snehasishhaldar415@gmail.com).
+We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [sahilrajsingh2005@gmail.com](mailto:sahilrajsingh2005@gmail.com).
